@@ -3,3 +3,12 @@ id: 1
 nombre:
   es: riñoneras ligeras
   en: belted wallets
+imagen-representativo: 1/frontal.png    # la foto que representa la serie
+unidad-representativo: 1                # la unidad cuyos fotos representan la serie
+                                          #TODO: cambiar a un renglon de imagenes de varias unidades
+    nombre: turquesa
+    imagen-principal: en-el-cuerpo.png
+  - id: 2
+    nombre: floral blanca
+    imagen-principal: en-el-cuerpo.png
+precio: 25,00
