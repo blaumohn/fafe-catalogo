@@ -11,7 +11,7 @@ imagenes:
     - 1/con-contenido.png
     - 1/hacia-adentro.png
   unidades:
-    id: 1
+  - id: 1
     nombre: turquesa
     disponibles: 1
     imagenes:                          # por ahora se mostrará solamente 1 imagen por unidad
