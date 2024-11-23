@@ -1,19 +1,24 @@
 ---
 id: 1
 nombre:
-    es: riñoneras ligeras
-    en: belted wallets
+  es: riñoneras ligeras
+  en: belted wallets
 imagenes:
-    representativo: 1/frontal.png       # para representar la serie en páginas exteriores
-    descripción:
-      - 1/en-el-cuerpo.png
-      - 1/frontal.png
-      - 1/con-contenido.png
-      - 1/hacia-adentro.png
+  representativo: 1/frontal.png       # para representar la serie en páginas exteriores
+  descripción:
+    - 1/en-el-cuerpo.png
+    - 1/frontal.png
+    - 1/con-contenido.png
+    - 1/hacia-adentro.png
   unidades:
+    id: 1
     nombre: turquesa
-    imagen-principal: en-el-cuerpo.png
+    disponibles: 1
+    imagenes: # por ahora se mostrará solamente 1 imagen por unidad
+      representativo: en-el-cuerpo.png
   - id: 2
     nombre: floral blanca
-    imagen-principal: en-el-cuerpo.png
+    disponibles: 0
+    imagenes:
+      representativo: en-el-cuerpo.png
 precio: 25,00
